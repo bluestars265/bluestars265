@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bluestars265
-- 👀 I’m interested in Python GDS C
+- 👀 I’m interested in godot,python
 - 🌱 I’m currently learning PYthon GDS
 - 📫 How to reach me QQ : 2652970171 , E: 2652970171@qq.com
 - 😄 Pronouns: blue
